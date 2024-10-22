@@ -1,0 +1,7 @@
+{"API_Key":"[<UI API Key>]",
+"email_user":"[<Sender Email>]",
+"email_pass":"[<Sender Email password>]",
+"mail_to":"[<Recipient email>]",
+"smtp_server":"[<SMTP server>]",
+"smtp_port":"[<SMTP server port>]",
+"controllerIPs":"[controller 1 IP, controller 2 IP, controller 3 IP]"}
